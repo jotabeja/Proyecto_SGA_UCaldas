@@ -6,7 +6,7 @@
 
 <p>Listado de estudiantes por curso</p>
 
-
+<hr>
 
 <div class="btn-group" role="group" aria-label="Basic mixed styles example">
   <button type="button" class="btn btn-outline-primary">Left</button>
@@ -25,6 +25,9 @@
   </select>
   <label class="input-group-text" for="inputGroupSelect02">Options</label>
 </div>
+   <button type="button" class="btn btn-success">Nuevo  </button>
+
+<br>
 
 @if (estudiantes == null)
 {
@@ -35,10 +38,10 @@
 else
 {
     <br>
-    <table class="table">
+    <table class="table" >
         <thead>
             <tr>
-                <th>Apellidos</th>
+                <th>Apellidos </th>
                 <th>Nombres</th>
                 <th>Dirección</th>
                 <th>Teléfono</th>
@@ -58,7 +61,8 @@ else
                 <button type="button" class="btn btn-danger">Eliminar</button></td>
                 </tr>
             }
-            <button type="button" class="btn btn-success">Nuevo</button>
+                
+         
         </tbody>
     </table>
 }
@@ -81,4 +85,6 @@ else
 
        public string telefono { get; set; }
     }
+    
+    
 }

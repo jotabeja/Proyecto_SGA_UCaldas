@@ -138,3 +138,5 @@ C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_C
 C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Reportes.razor.g.cs
 C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\IntMenu.razor.g.cs
 C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\IntMenu.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\NuevaPersona.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\NuevaPersona.razor.g.cs
