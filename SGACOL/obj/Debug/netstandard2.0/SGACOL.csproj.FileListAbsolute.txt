@@ -128,3 +128,13 @@ C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_C
 C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\linker\SGACOL.pdb
 C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\inputs.bootjson.cache
 C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\blazor\blazor.boot.json
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Perfil.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Perfil.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Asignaturas.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Grupos.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Pages\Reportes.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Asignaturas.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Grupos.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Pages\Reportes.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\RazorDeclaration\Shared\IntMenu.razor.g.cs
+C:\Users\jhon.bejarano\Desktop\GCO\JB\CURSO_UCALDAS\Programacion_3\Entrega_SGA_Ciclo_3\Proyecto_SGA_UCaldas\SGACOL\obj\Debug\netstandard2.0\Razor\Shared\IntMenu.razor.g.cs
