@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGA\\SGA.csproj": {}
+    "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\sga\\SGA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGA\\SGA.csproj": {
+    "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\sga\\SGA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGA\\SGA.csproj",
+        "projectUniqueName": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\sga\\SGA.csproj",
         "projectName": "SGA",
-        "projectPath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGA\\SGA.csproj",
+        "projectPath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\sga\\SGA.csproj",
         "packagesPath": "C:\\Users\\jhon.bejarano\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGA\\obj\\",
+        "outputPath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\sga\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jhon.bejarano\\AppData\\Roaming\\NuGet\\NuGet.Config"
