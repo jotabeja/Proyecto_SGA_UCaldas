@@ -1436,28 +1436,36 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jhon.bejarano\\.nuget\\packages\\": {}
+    "C:\\Users\\Tatty\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGACOL\\SGACOL.csproj",
+      "projectUniqueName": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\Proyecto_SGA_UCaldas\\SGACOL\\SGACOL.csproj",
       "projectName": "SGACOL",
-      "projectPath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGACOL\\SGACOL.csproj",
-      "packagesPath": "C:\\Users\\jhon.bejarano\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jhon.bejarano\\Desktop\\GCO\\JB\\CURSO_UCALDAS\\Programacion_3\\Entrega_SGA_Ciclo_3\\Proyecto_SGA_UCaldas\\SGACOL\\obj\\",
+      "projectPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\Proyecto_SGA_UCaldas\\SGACOL\\SGACOL.csproj",
+      "packagesPath": "C:\\Users\\Tatty\\.nuget\\packages\\",
+      "outputPath": "G:\\Mi unidad\\misiontic\\Desarrollo de Software\\PROYECTO\\Proyecto_SGA_UCaldas\\SGACOL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\jhon.bejarano\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Tatty\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -1469,6 +1477,7 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
           "Microsoft.AspNetCore.Blazor": {
             "target": "Package",
@@ -1505,7 +1514,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.413\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
