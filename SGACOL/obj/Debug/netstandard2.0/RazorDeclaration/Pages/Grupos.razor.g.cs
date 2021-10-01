@@ -55,7 +55,7 @@ using SGACOL.Shared;
         {
         }
         #pragma warning restore 1998
-#line 97 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\Pages\Grupos.razor"
+#line 89 "G:\Mi unidad\misiontic\Desarrollo de Software\PROYECTO\Proyecto_SGA_UCaldas\SGACOL\Pages\Grupos.razor"
        
     BaseEstudiantes[] estudiantes;
 
