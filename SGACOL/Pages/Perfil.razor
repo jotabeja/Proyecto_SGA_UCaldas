@@ -1,28 +1,82 @@
 @page "/perfil"
 
 <form>
-<table style="width:100%">
-  <tr>
-    <td><label for="Nombres">Nombres:</label></td>
-    <td><label for="Apellidos">Apellidos:</label></td>
-    <td><label for="Id">No. Identificacion:</label></td>
-  </tr>
-  <tr>
-    <td><input type="text" id="Nombres" name="Nombres" value=""></td>
-    <td><input type="text" id="Apellidos" name="Apellidos" value=""></td>
-    <td><input type="text" id="Id" name="Identificacion" value=""></td>
-  </tr>
-  <tr></tr>
-  <tr>
-     <td><label for="Telefono">Telefono:</label></td>
-    <td><label for="Correo">Correo electronico:</label></td>
-     <td><label for="Direccion">Direccion Residencial:</label></td>
-  </tr>
-  <tr>
-    <td><input type="text" id="Telefono" name="Telefono" value=""></td>
-    <td><input type="email" id="Correo" name="Correo" value=""></td>
-    <td><input type="text" id="Direccion" name="Direccion" value=""> </td>
-  </tr> 
-   <!-- Datos básicos Persona -->
-</table>
+  <table style="width:100%">
+    <tr>
+      <td><label for="Nombres">Nombres:</label></td>
+      <td><label for="Apellidos">Apellidos:</label></td>
+      <td><label for="Id">No. Identificacion:</label></td>
+    </tr>
+    <tr>
+      <td><input type="text" id="Nombres" name="Nombres" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="Apellidos" name="Apellidos" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="Id" name="Identificacion" value="123456"></td>
+    </tr>
+    <tr></tr>
+    <tr>
+      <td><label for="Telefono">Telefono:</label></td>
+      <td><label for="Correo">Correo electronico:</label></td>
+      <td><label for="Direccion">Direccion Residencial:</label></td>
+    </tr>
+    <tr>
+      <td><input type="text" id="Telefono" name="Telefono" value="123455"></td>
+      <td><input type="email" id="Correo" name="Correo" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="Direccion" name="Direccion" value="Datos traidos de la BD"> </td>
+    </tr>
+    <!-- Datos básicos Persona -->
+
+
+    <!-- Datos Docente -->
+    <tr>
+      <td><label for="Profesion">Profesion:</label></td>
+      <td><label for="Salario">Salario:</label></td>
+    </tr>
+    <tr>
+      <td><input type="text" id="Profesion" name="Profesion" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="Salario" name="Profesion" value="Datos traidos de la BD"></td>
+    </tr>
+
+    <!-- Datos Alumno -->
+    <tr>
+      <td><label for="FecNacimiento">Fecha Nacimiento</label></td>
+      <td><label for="EstPadre">Padre:</label></td>
+      <td><label for="EstMadre">Madre:</label></td>
+    </tr>
+    <tr>
+      <td><input type="date" id="FecNacimiento" name="FecNacimiento" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="EstPadre" name="Padre" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="EstMadre" name="Madre" value="Datos traidos de la BD"></td>
+    </tr>
+    <tr>
+      <td><label for="Acudiente">Acudiente:</label></td>
+    </tr>
+    <tr>
+      <td><input type="text" id="Acudiente" name="Acudiente" value="Datos traidos de la BD"></td>
+    </tr>
+    <!-- Datos Acudiente -->
+    <tr>
+      <td><label for="Estudiante">Estudiante:</label></td>
+      <td><label for="Parentezco">Parentezco:</label></td>
+    </tr>
+    <tr>
+      <td><input type="text" id="Estudiante" name="Estudiante" value="Datos traidos de la BD"></td>
+      <td><input type="text" id="Parentezco" name="Parentezco" value="Datos traidos de la BD"></td>
+    </tr>
+    <tr>
+      <td><label for="Acudiente">Acudiente:</label></td>
+    </tr>
+    <tr>
+      <td><input type="text" id="Acudiente" name="Acudiente" value="Datos traidos de la BD"></td>
+    </tr>
+
+    <!-- Datos actualizacion de ingreso todos los usuarios -->
+    <tr>
+      <td><label for="contra">Contraseña:</label></td>
+      <td><label for="contraNue">Contraseña nueva:</label></td>
+    </tr>
+    <tr>
+      <td><input type="password" id="contra" name="contra" value="123455"></td>
+      <td><input type="password" id="contraNue" name="contraNue" value="Datos traidos de la BD"></td>
+    </tr>
+  </table>
 </form>
